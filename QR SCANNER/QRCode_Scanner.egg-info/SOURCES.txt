@@ -1,0 +1,5 @@
+setup.py
+QRCode_Scanner.egg-info/PKG-INFO
+QRCode_Scanner.egg-info/SOURCES.txt
+QRCode_Scanner.egg-info/dependency_links.txt
+QRCode_Scanner.egg-info/top_level.txt
