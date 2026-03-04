@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: QRCode-Scanner
+Version: 1.0
+Summary: QRcode Scanning app using python
+Author: Logadheep
+Author-email: logadheep3438@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary

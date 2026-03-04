@@ -1,0 +1,19 @@
+skills :
+
+python - all
+Html - except abid
+SQL - except abid
+css , JS - except abid
+Msoffice - abid
+AI-ML Alog
+DSA(algo) - beginner
+
+technology:
+
+Vscode - madhupriya,mubashira,bhavani
+jupyter - madhupriya,mubashira,bhavani
+Terminal - madhupriya,mubashira,bhavani
+
+
+
+
